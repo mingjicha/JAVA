@@ -1,4 +1,4 @@
-package ex;
+package cond.ex;
 
 public class CondOpEx {
     public static void main(String[] args) {

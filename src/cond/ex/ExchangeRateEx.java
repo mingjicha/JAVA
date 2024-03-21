@@ -1,4 +1,4 @@
-package ex;
+package cond.ex;
 
 public class ExchangeRateEx {
     public static void main(String[] args) {
